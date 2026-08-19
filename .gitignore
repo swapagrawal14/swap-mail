@@ -1,0 +1,6 @@
+# Credentials and local material
+ssh-deploy-key/
+source.html
+app.js
+domains.json
+working-domains.txt
